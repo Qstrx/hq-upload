@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "minShell": 1,
-  "bundle": "bundle-2.0.0.json",
-  "signature": "1B5Srzn0aF9HgeVzlhCIrWcLiI+Yo95dOFIUOVuq+AOqDbqgWBv0G92b170lsfUwqyUtNtGgHA1aYbnWEKPmeA==",
+  "bundle": "bundle-2.0.1.json",
+  "signature": "qYbVCjuGht483IovS0Nmza5S0yEiuVsMuQGqo/Y2x+UIEoZWCFNYn1epU05xnk4s9WNjWt75bfBvriJCuicZbg==",
   "page": "https://github.com/Qstrx/hq-upload"
 }
